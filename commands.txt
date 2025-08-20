@@ -1,0 +1,27 @@
+>command for listing configuring details
+
+git congig --list
+
+>command for adding username
+
+git config --global user.name "username"
+
+>command for adding user eamil
+
+git config -- global user.email "email"
+
+>command for initializing git repository
+
+git init
+
+>command for listing all untracked files
+
+git status
+
+>command for for adding all untracked files to staging area
+
+git add -A
+
+>command for for adding all files to local repository
+
+>git commit -m "commit message"
