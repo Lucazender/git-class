@@ -1,4 +1,4 @@
->command for listing configuring details
+ ;>command for listing configuring details
 
 git congig --list
 
@@ -37,3 +37,9 @@ git remote -v
 >command for pushing
 
 git push -u name branchname
+
+
+Branch name: master, main
+
+
+Create repository, give a name, copy path, check status in terminal, add repository in terminal, verify the process, check status, if not added - add and commit, push to remote
