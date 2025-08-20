@@ -24,4 +24,16 @@ git add -A
 
 >command for for adding all files to local repository
 
->git commit -m "commit message"
+git commit -m "commit message"
+
+>command for adding remote repository
+
+git remote add origin remote_path
+
+>command for listing remote
+
+git remote -v
+
+>command for pushing
+
+git push -u name branchname
