@@ -38,6 +38,9 @@ git remote -v
 
 git push -u name branchname
 
+>command for listing all branches
+
+git branch
 
 Branch name: master, main
 
